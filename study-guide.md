@@ -1,3 +1,5 @@
+# NO LONGER IN USE!! ARCHIVED! STUDENT STUDY GUIDE IS LINKED TO THE DASHBOARD
+
 # Technical Evaluation Study Guide
 
 To gain admission into Thinkful's Engineering Immersion or Engineering Nights & Weekends programs, you must pass a live, technical evaluation. The purpose of this evaluation is to ensure prospective students have a good understanding of JavaScript, HTML, CSS and GitHub/command line before entering the program. 
